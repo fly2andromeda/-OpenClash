@@ -1,3 +1,11 @@
+
+解决分流ip解析不到
+https://github.com/vernesong/OpenClash/issues/3171#issuecomment-1506556071
+（设置-覆写设置- meta设置-勾选自定义嗅探设置
+
+
+
+---------------------------------------------------------------------------------------------
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/vernesong/OpenClash/dev/img/logo.png" alt="Clash" width="200">
   <br>OpenClash<br>
